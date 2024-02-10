@@ -1,0 +1,3 @@
+https://www.figma.com/proto/JvzTL2adkXBvb1iYq4UFke/Untitled?page-id=0%3A1&type=design&node-id=69-366&viewport=668%2C-354%2C0.7&t=ijqGRHX28raM9wva-1&scaling=scale-down&starting-point-node-id=33%3A128&mode=design
+
+The above link is the final UI/UX design model of our solution "DashN'Deliver"
